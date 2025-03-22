@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Custom class örneği */
+.nav_underline {
+  @apply relative after:w-full after:h-[1px] after:absolute after:bg-black after:bottom-0 after:translate-y-[6px] after:scale-0 hover:after:scale-100 after:transition-all;
+}
