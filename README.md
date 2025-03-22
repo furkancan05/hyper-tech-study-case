@@ -15,6 +15,8 @@ Bu proje Hyper Teknoloji Frontend Developer başvurusu üzerine hazırlanmış b
 
 Projede kullanıcılar ürünleri listeleyebilir, arama ve kategorize etme yapabilir, sepete ekleyebilir ve sepetteki ürünleri silebilir. Bunun dışında eklenen tüm featurlar sadece UI amaçlı olup fonksiyonaliteleri bulunmamaktadır.
 
+## Projeyi canlı olarak https://hyper-tech-study-case.vercel.app/ sitesinden inceleyebilirsiniz.
+
 ## Projenin Çalıştırılması
 
 Projeyi localinizde çalıştırmak için lütfen bu adımları uygulayınız:

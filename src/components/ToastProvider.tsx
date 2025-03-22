@@ -23,7 +23,7 @@ export default function ToastProvider() {
   return (
     <div
       className={cn(
-        "bg-white border-[1px] border-black/20 rounded-md px-8 py-4 absolute right-10 -bottom-10 opacity-0 z-50 transition-all",
+        "bg-white border-[1px] border-black/20 rounded-md px-8 py-4 fixed right-10 -bottom-10 opacity-0 z-50 transition-all",
         { "opacity-100 bottom-10": isOpen }
       )}
     >
